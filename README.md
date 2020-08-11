@@ -1,2 +1,2 @@
 # staticSquare
-A static square made using Matter.js physics engine
+A game made using Matter.js physics engine
